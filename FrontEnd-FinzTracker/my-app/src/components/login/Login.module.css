@@ -1,0 +1,39 @@
+.fullLogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+.loginCart {
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width: 25%;
+    min-width: 200px;
+    min-height: 250px;
+}
+
+.headLogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fieldLogin {
+    align-items: center;
+    justify-content: center;
+    margin: 7%;
+}
+
+.buttonLogin {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin: 7%
+}

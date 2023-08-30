@@ -1,0 +1,68 @@
+.parentHome {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    background-color: #FFF3DA;
+}
+
+.upperContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.firstHeading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'ADLaM Display', cursive;
+    font-size: 30px;
+    margin: 20px 10px 10px 10px;
+}
+
+.tagline {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    width: 40%;
+    margin: 20px 10px 10px 10px;
+    padding: 5px;
+    border: 1px solid #ED7B7B;
+}
+
+.middleContainer {
+    border: 2px solid #ED7B7B;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.rateShow {
+    font-family: 'Open Sans', sans-serif;
+    margin: 5px;
+}
+
+.rateAlert {
+    font-family: 'Open Sans', sans-serif;
+    /* margin: 5px; */
+}
+
+.alertlist {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid #D0BFFF;
+    width: 30%;
+}
+
+.infoBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 30px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
