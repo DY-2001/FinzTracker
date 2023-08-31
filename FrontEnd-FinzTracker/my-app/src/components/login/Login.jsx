@@ -30,7 +30,7 @@ const Login = () => {
       if (!data.success) {
         alert(data.message);
       } else {
-        navigate("/");
+        navigate("/home");
       }
     }
   };
